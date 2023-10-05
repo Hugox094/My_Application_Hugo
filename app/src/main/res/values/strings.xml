@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My_Application_Hugo</string>
+    <string name="txtSaludo">Suma</string>
+    <string name="botonSaludar">Sumar</string>
+    <string name="txtSegundo">Resta</string>
+    <string name="txtTercero">Multiplicacion</string>
+    <string name="btnCambiar">Cambiar Activity</string>
+    <string name="btnspiner">Boton Spiner</string>
+    <string name="resultado"></string>
+    <string name="txtN1">Numero 1</string>
+    <string name="txtN2">Numero 2</string>
+    <string name="radio1">Opcion 1</string>
+    <string name="radio2">Opcion 2</string>
+
+
+</resources>
